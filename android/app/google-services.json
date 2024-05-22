@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "516574011197",
+    "firebase_url": "https://bizcash-d6b21-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bizcash-d6b21",
+    "storage_bucket": "bizcash-d6b21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516574011197:android:26d7f82df669b2bfdeaf54",
+        "android_client_info": {
+          "package_name": "com.example.bizcash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-9U-pVih9trBriysVbBySTk1b83p0fCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516574011197:android:80c757d908f8ba2ddeaf54",
+        "android_client_info": {
+          "package_name": "com.exmp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-9U-pVih9trBriysVbBySTk1b83p0fCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
